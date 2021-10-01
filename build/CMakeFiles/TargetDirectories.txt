@@ -1,3 +1,0 @@
-C:/Users/lvega1/Documents/Git/math/build/CMakeFiles/out.dir
-C:/Users/lvega1/Documents/Git/math/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/lvega1/Documents/Git/math/build/CMakeFiles/ZERO_CHECK.dir
