@@ -1,0 +1,10 @@
+^C:\USERS\LVEGA1\DOCUMENTS\GIT\MATH\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/lvega1/Documents/Git/math -BC:/Users/lvega1/Documents/Git/math/build --check-stamp-file C:/Users/lvega1/Documents/Git/math/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
