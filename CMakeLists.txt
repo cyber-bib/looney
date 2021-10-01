@@ -1,9 +1,14 @@
 cmake_minimum_required(VERSION 3.20.0 FATAL_ERROR)
 
-project(out-proj)
+project(looney-proj
+	VERSION 0.0.0.1
+	DESCRIPTION "CMake Development template project"
+	HOMEPAGE_URL "..."
+  LANGUAGES C CXX
+)
 
-set(CMAKE_CXX_EXTENSIONS OFF)
-set(CMAKE_CXX_STANDARD 20)
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
+list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
+include(Helpers)
+add_project_defaults()
 
-add_executable(out main.cxx)
+add_subdirectory(src core)
