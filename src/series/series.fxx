@@ -1,0 +1,5 @@
+#include "function.hxx"
+
+namespace looney::math {
+  class series;
+};

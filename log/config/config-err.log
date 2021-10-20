@@ -1,0 +1,76 @@
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkChartsCore' component is 'ChartsCore'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkCommonColor' component is 'CommonColor'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkCommonCore' component is 'CommonCore'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkCommonDataModel' component is 'CommonDataModel'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkInteractionStyle' component is 'InteractionStyle'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkRenderingContext2D' component is
+  'RenderingContext2D'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkRenderingContextOpenGL2' component is
+  'RenderingContextOpenGL2'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkRenderingCore' component is 'RenderingCore'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkRenderingFreeType' component is
+  'RenderingFreeType'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkRenderingGL2PSOpenGL2' component is
+  'RenderingGL2PSOpenGL2'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkRenderingOpenGL2' component is 'RenderingOpenGL2'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
+CMake Deprecation Warning at C:/dev/vtk/build/windows/VS16/Install/Release/lib/cmake/vtk-9.0/vtk-config.cmake:73 (message):
+  The new name for the 'vtkViewsContext2D' component is 'ViewsContext2D'
+Call Stack (most recent call first):
+  src/CMakeLists.txt:10 (find_package)
+
+
